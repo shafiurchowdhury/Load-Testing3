@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1680190642977,1055,HTTP Request,200,OK,basic_user 1-2,text,true,,123644,119,7,7,https://www.w3schools.com/,637,0,540
+1680190642877,1172,HTTP Request,200,OK,basic_user 1-1,text,true,,123644,119,6,6,https://www.w3schools.com/,736,0,640
+1680190643176,1237,HTTP Request,200,OK,basic_user 1-3,text,true,,123644,119,7,7,https://www.w3schools.com/,433,0,341
+1680190643378,1059,HTTP Request,200,OK,basic_user 1-4,text,true,,123644,119,6,6,https://www.w3schools.com/,233,0,150
+1680190643777,694,HTTP Request,200,OK,basic_user 1-6,text,true,,123644,119,5,5,https://www.w3schools.com/,219,0,146
+1680190643974,754,HTTP Request,200,OK,basic_user 1-7,text,true,,123644,119,5,5,https://www.w3schools.com/,471,0,174
+1680190644174,720,HTTP Request,200,OK,basic_user 1-8,text,true,,123644,119,4,4,https://www.w3schools.com/,324,0,238
+1680190644375,839,HTTP Request,200,OK,basic_user 1-9,text,true,,123644,119,3,3,https://www.w3schools.com/,522,0,236
+1680190644579,666,HTTP Request,200,OK,basic_user 1-10,text,true,,123644,119,2,2,https://www.w3schools.com/,353,0,243
+1680190643582,1994,HTTP Request,200,OK,basic_user 1-5,text,true,,123644,119,1,1,https://www.w3schools.com/,1752,0,1249
